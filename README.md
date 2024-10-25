@@ -20,4 +20,5 @@ Tools used:
 •	PowerPoint
 
 
-Outcome: Derive actionable insights to help the Telangana government enhance its tourism business.
+Outcome: 
+Derive actionable insights to help the Telangana government enhance its tourism business.
